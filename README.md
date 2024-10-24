@@ -1,0 +1,2 @@
+# File Auditor
+**File Auditor** is a powerful tool designed to assist users in managing files and recovering from corruption. With easy metadata extraction and effective file verification, it empowers users to safeguard and restore their valuable data. This tool is a reliable partner for maintaining file integrity and recovering from unexpected data loss.
